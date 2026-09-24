@@ -71,21 +71,9 @@ class VivekPandey:
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧑‍🎓 <a href="https://github.com/VP171097/SmartAttendanceSystem">SmartAttendanceSystem</a></h3>
-      <p>Smart attendance system.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🏠 <a href="https://github.com/VP171097/TenantRentManager">TenantRentManager</a></h3>
       <p>App for managing tenants and tracking rent.</p>
       <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✈️ <a href="https://github.com/VP171097/TravelPlanner">TravelPlanner</a></h3>
-      <p>Trip planning web app.</p>
-      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /></p>
     </td>
   </tr>
 </table>
