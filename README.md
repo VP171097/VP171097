@@ -1,50 +1,116 @@
-# Hi, I'm Vivek Pandey 👋
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Vivek%20Pandey&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Vivek Pandey banner" width="100%" />
+</p>
 
-**Data Engineer & Machine Learning Engineer** at **Infosys Limited** · 📍 Noida, India
+<!-- Animated tagline -->
+<p align="center">
+  <a href="https://github.com/VP171097">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;PySpark+%E2%80%A2+Databricks+%E2%80%A2+Delta+Lake;Turning+raw+data+into+insights+%F0%9F%93%8A;Machine+Learning+%E2%80%A2+Azure+%E2%80%A2+SQL" alt="Typing tagline" />
+  </a>
+</p>
 
-I build data pipelines and analytics platforms, and I work on machine-learning projects in between. My usual stack is Python, SQL, PySpark, Databricks and Microsoft Azure. On the side I build full-stack apps in TypeScript and JavaScript.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vp1710"><img src="https://img.shields.io/badge/LinkedIn-vp1710-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/VP171097?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <img src="https://img.shields.io/badge/Infosys-Data%20Engineer-007CC3?style=for-the-badge&logo=infosys&logoColor=white" alt="Infosys" />
+  <img src="https://img.shields.io/badge/Noida-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Noida, India" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fvp1710-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vp1710)
-[![GitHub](https://img.shields.io/badge/GitHub-VP171097-181717?style=flat&logo=github)](https://github.com/VP171097)
-
----
-
-### 🛠️ Tech stack
-
-- **Data engineering:** PySpark · Databricks · Delta Lake · SQL
-- **ML & analytics:** Python · statistics · data visualization · Excel
-- **Cloud:** Microsoft Azure · AWS (Amazon Connect)
-- **App development:** TypeScript · JavaScript
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,azure,aws,ts,js,git,github&theme=dark" alt="Tech stack icons" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VP171097&label=Profile%20views&color=36bcf7&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 Featured projects
+## 👨‍💻 About me
 
-| Project | What it is | Stack |
-|---|---|---|
-| [contact-lens-voice-analytics-pipeline](https://github.com/VP171097/contact-lens-voice-analytics-pipeline) | Production-grade PySpark ETL for Amazon Connect voice transcripts, built on a Delta Lake Medallion architecture with CDF streaming and Databricks Workflows | PySpark, Databricks, Delta Lake |
-| [SmartAttendanceSystem](https://github.com/VP171097/SmartAttendanceSystem) | Smart attendance system | Python |
-| [TenantRentManager](https://github.com/VP171097/TenantRentManager) | App for managing tenants and tracking rent | TypeScript |
-| [TravelPlanner](https://github.com/VP171097/TravelPlanner) | Trip planning web app | JavaScript |
-| [Customer_segmentation](https://github.com/VP171097/Customer_segmentation) | Segments customers by demographics, interests and affluence for targeted marketing | Python, ML |
-| [Bankruptcy-Prediction](https://github.com/VP171097/Bankruptcy-Prediction) | Classification model that predicts company bankruptcy | Jupyter, ML |
-| [Melbourne_Housing_Prices](https://github.com/VP171097/Melbourne_Housing_Prices) | Regression analysis of Melbourne housing prices | Jupyter, ML |
+```python
+class VivekPandey:
+    role      = "Data Engineer & Machine Learning Engineer"
+    company   = "Infosys Limited"
+    location  = "Noida, India"
+
+    focus     = ["Data pipelines", "Lakehouse architecture", "Machine learning"]
+    daily     = ["Python", "SQL", "PySpark", "Databricks", "Microsoft Azure"]
+    side_quests = ["Full-stack apps in TypeScript & JavaScript"]
+
+    def say_hi(self):
+        return "Thanks for dropping by! Let's build something with data. 🚀"
+```
 
 ---
 
-### 📊 GitHub stats
+## 🛠️ Tech stack
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VP171097&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VP171097&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,azure,aws,ts,js,git,github,vscode&theme=dark&perline=8" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 ---
 
-### 📫 Get in touch
+## 🚀 Featured projects
 
-The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/vp1710). I may be slow to respond, but I'll get back to you.
+<p align="center">
+  <a href="https://github.com/VP171097/contact-lens-voice-analytics-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VP171097&repo=contact-lens-voice-analytics-pipeline&theme=tokyonight&hide_border=true&border_radius=12" alt="contact-lens-voice-analytics-pipeline" /></a>
+  <a href="https://github.com/VP171097/SmartAttendanceSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VP171097&repo=SmartAttendanceSystem&theme=tokyonight&hide_border=true&border_radius=12" alt="SmartAttendanceSystem" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/VP171097/TenantRentManager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VP171097&repo=TenantRentManager&theme=tokyonight&hide_border=true&border_radius=12" alt="TenantRentManager" /></a>
+  <a href="https://github.com/VP171097/TravelPlanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VP171097&repo=TravelPlanner&theme=tokyonight&hide_border=true&border_radius=12" alt="TravelPlanner" /></a>
+</p>
+
+<details>
+<summary><b>🧠 More ML & analytics projects</b></summary>
+<br/>
+
+| Project | What it is |
+|---|---|
+| [Customer_segmentation](https://github.com/VP171097/Customer_segmentation) | Segments customers by demographics, interests and affluence for targeted marketing |
+| [Bankruptcy-Prediction](https://github.com/VP171097/Bankruptcy-Prediction) | Classification model that predicts company bankruptcy |
+| [Melbourne_Housing_Prices](https://github.com/VP171097/Melbourne_Housing_Prices) | Regression analysis of Melbourne housing prices |
+| [ObjectDetection](https://github.com/VP171097/ObjectDetection) | Object detection with Python |
+
+</details>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VP171097&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VP171097&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VP171097&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VP171097&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph" />
+</p>
+
+---
+
+## 📫 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vp1710"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p>
+
+<p align="center"><i>I may be slow to respond, but I'll always get back to you. ✨</i></p>
+
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="footer" width="100%" />
+</p>
