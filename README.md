@@ -46,7 +46,15 @@ class VivekPandey:
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,aws,ts,js,git,github,vscode&theme=dark&perline=8" alt="Tech stack icons" />
+  <img height="48" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" />
+  <img height="48" src="./assets/icons/databricks.svg" alt="Databricks" title="Databricks" />
+  <img height="48" src="./assets/icons/sql.svg" alt="SQL" title="SQL" />
+  <img height="48" src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Microsoft Azure" title="Microsoft Azure" />
+  <img height="48" src="./assets/icons/cosmosdb.svg" alt="Azure Cosmos DB" title="Azure Cosmos DB" />
+  <img height="48" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" />
+  <img height="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" />
+  <img height="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" />
+  <img height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" />
 </p>
 
 <p align="center">
@@ -54,6 +62,7 @@ class VivekPandey:
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge" alt="Azure Cosmos DB" />
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
