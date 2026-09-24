@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://vp171097.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/vp1710"><img src="https://img.shields.io/badge/LinkedIn-vp1710-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/VP171097?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <img src="https://img.shields.io/badge/Infosys-Data%20Engineer-007CC3?style=for-the-badge&logo=infosys&logoColor=white" alt="Infosys" />
@@ -30,6 +31,7 @@ class VivekPandey:
     role      = "Data Engineer & Machine Learning Engineer"
     company   = "Infosys Limited"
     location  = "Noida, India"
+    portfolio = "https://vp171097.github.io/Portfolio/"
 
     focus     = ["Data pipelines", "Lakehouse architecture", "Machine learning"]
     daily     = ["Python", "SQL", "PySpark", "Databricks", "Microsoft Azure"]
@@ -105,6 +107,7 @@ class VivekPandey:
 ## 📫 Let's connect
 
 <p align="center">
+  <a href="https://vp171097.github.io/Portfolio/"><img src="https://img.shields.io/badge/View%20my%20Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View my portfolio" /></a>
   <a href="https://www.linkedin.com/in/vp1710"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
