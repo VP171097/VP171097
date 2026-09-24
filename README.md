@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Vivek%20Pandey&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Vivek Pandey banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Vivek%20Pandey&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Databricks%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Vivek Pandey banner" width="100%" />
 </p>
 
 <!-- Animated tagline -->
