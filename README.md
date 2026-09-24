@@ -63,14 +63,32 @@ class VivekPandey:
 
 ## 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/VP171097/contact-lens-voice-analytics-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VP171097&repo=contact-lens-voice-analytics-pipeline&theme=tokyonight&hide_border=true&border_radius=12" alt="contact-lens-voice-analytics-pipeline" /></a>
-  <a href="https://github.com/VP171097/SmartAttendanceSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VP171097&repo=SmartAttendanceSystem&theme=tokyonight&hide_border=true&border_radius=12" alt="SmartAttendanceSystem" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/VP171097/TenantRentManager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VP171097&repo=TenantRentManager&theme=tokyonight&hide_border=true&border_radius=12" alt="TenantRentManager" /></a>
-  <a href="https://github.com/VP171097/TravelPlanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VP171097&repo=TravelPlanner&theme=tokyonight&hide_border=true&border_radius=12" alt="TravelPlanner" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/VP171097/contact-lens-voice-analytics-pipeline">contact-lens-voice-analytics-pipeline</a></h3>
+      <p>Production-grade PySpark ETL for Amazon Connect voice transcripts, built on a Delta Lake Medallion architecture with CDF streaming and Databricks Workflows.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍🎓 <a href="https://github.com/VP171097/SmartAttendanceSystem">SmartAttendanceSystem</a></h3>
+      <p>Smart attendance system.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/VP171097/TenantRentManager">TenantRentManager</a></h3>
+      <p>App for managing tenants and tracking rent.</p>
+      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ <a href="https://github.com/VP171097/TravelPlanner">TravelPlanner</a></h3>
+      <p>Trip planning web app.</p>
+      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /></p>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>🧠 More ML & analytics projects</b></summary>
@@ -90,16 +108,21 @@ class VivekPandey:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VP171097&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VP171097&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=VP171097&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 </p>
 
+<!-- Generated daily by .github/workflows/profile-3d.yml -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VP171097&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph with stats and languages" />
+</p>
+
+<!-- Generated daily by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VP171097/VP171097/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VP171097/VP171097/output/github-snake.svg" />
+    <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/VP171097/VP171097/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
