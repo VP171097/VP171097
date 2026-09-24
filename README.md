@@ -1,12 +1,12 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Vivek%20Pandey&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Vivek Pandey banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Vivek%20Pandey&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Vivek Pandey banner" width="100%" />
 </p>
 
 <!-- Animated tagline -->
 <p align="center">
   <a href="https://github.com/VP171097">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;PySpark+%E2%80%A2+Databricks+%E2%80%A2+Delta+Lake;Turning+raw+data+into+insights+%F0%9F%93%8A;Machine+Learning+%E2%80%A2+Azure+%E2%80%A2+SQL" alt="Typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;PySpark+%E2%80%A2+Databricks+%E2%80%A2+Delta+Lake;Turning+raw+data+into+insights+%F0%9F%93%8A;Azure+%E2%80%A2+SQL+%E2%80%A2+Cosmos+DB" alt="Typing tagline" />
   </a>
 </p>
 
@@ -28,14 +28,13 @@
 
 ```python
 class VivekPandey:
-    role      = "Data Engineer & Machine Learning Engineer"
+    role      = "Data Engineer"
     company   = "Infosys Limited"
     location  = "Noida, India"
     portfolio = "https://vp171097.github.io/Portfolio/"
 
-    focus     = ["Data pipelines", "Lakehouse architecture", "Machine learning"]
+    focus     = ["Data pipelines", "Lakehouse architecture"]
     daily     = ["Python", "SQL", "PySpark", "Databricks", "Microsoft Azure"]
-    side_quests = ["Full-stack apps in TypeScript & JavaScript"]
 
     def say_hi(self):
         return "Thanks for dropping by! Let's build something with data. 🚀"
@@ -88,7 +87,7 @@ class VivekPandey:
 </table>
 
 <details>
-<summary><b>🧠 More ML & analytics projects</b></summary>
+<summary><b>📈 More data & analytics projects</b></summary>
 <br/>
 
 | Project | What it is |
